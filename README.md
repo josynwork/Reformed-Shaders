@@ -44,4 +44,4 @@ Rovision is licensed under the [MIT License](LICENSE.md).
 
 ---
 
-Thank you for using Rovision! For support.
+Thank you for using Rovision!
